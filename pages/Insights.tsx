@@ -7,19 +7,19 @@ const posts: InsightPost[] = [
   {
     id: 1,
     title: "How people react to digital financial changes",
-    date: "October 12, 2023",
+    date: "November 24, 2025",
     description: "An analysis of public sentiment following the latest policy updates in the fintech sector."
   },
   {
     id: 2,
     title: "Patterns in customer trust",
-    date: "September 28, 2023",
+    date: "November 25, 2025",
     description: "What data signals tell us about building long-term reliability with Nigerian consumers."
   },
   {
     id: 3,
     title: "Short notes on public concerns in Nigeria",
-    date: "September 15, 2023",
+    date: "November 26, 2025",
     description: "A weekly roundup of trending topics and digital chatter across major platforms."
   }
 ];
